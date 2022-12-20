@@ -1,0 +1,14 @@
+{
+  "MessageKind": "Connect",
+  "ClientName": "SensorService1",
+  "Messages": [
+    {
+      "MessageKind": "Configure",
+      "TimestampFormat": 0
+    },
+    {
+      "MessageKind": "SubscribeObject",
+      "ObjectType": "WebLVC:PhysicalEntity"
+    }
+  ]
+}

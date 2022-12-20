@@ -1,0 +1,40 @@
+{
+  "MessageKind": "AttributeUpdate",
+  "ObjectName": "F-16 Bravo",
+  "ObjectType": "WebLVC:PhysicalEntity",
+  "Object": {
+    "EntityIdentifier": [
+      1,
+      2,
+      1
+    ],
+    "EntityType": [
+      1,
+      2,
+      225,
+      1,
+      3,
+      0,
+      0
+    ],
+    "Coordinates": {
+      "WorldLocation": [
+        4437182.1,
+        -395338.1,
+        873923.1
+      ],
+      "VelocityVector": [
+        57.04,
+        32.77,
+        89.263
+      ],
+      "Orientation": [
+        -1.65,
+        2.234,
+        -0.771
+      ]
+    },
+    "Marking": "F-16",
+    "DamageState": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "MessageKind": "AttributeUpdate",
+  "ObjectName": "F-16 Alpha",
+  "Object": {
+    "Coordinates": {
+      "WorldLocation": [
+        4437182.1,
+        -395338.1,
+        873923.1
+      ],
+      "VelocityVector": [
+        57.04,
+        32.77,
+        89.263
+      ],
+      "Orientation": [
+        -1.65,
+        2.234,
+        -0.771
+      ]
+    }
+  }
+}

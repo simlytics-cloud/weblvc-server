@@ -1,0 +1,18 @@
+{
+  "MessageKind": "Connect",
+  "ClientName": "SensorService2",
+  "Messages": [
+    {
+      "MessageKind": "Configure",
+      "TimestampFormat": 0
+    },
+    {
+      "MessageKind": "SubscribeObject",
+      "ObjectType": "WebLVC:PhysicalEntity"
+    },
+    {
+      "MessageKind": "SubscribeInteraction",
+      "InteractionType": "WebLVC:WeaponFire"
+    }
+  ]
+}

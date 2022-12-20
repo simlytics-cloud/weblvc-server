@@ -1,0 +1,14 @@
+*.class
+.idea
+target/
+ssl/
+bak_ssl/
+sbt-dist/
+sbt.bat
+sbt
+aws/
+awscliv2.zip
+project/target/
+project/project/
+
+

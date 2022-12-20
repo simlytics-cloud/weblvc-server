@@ -1,0 +1,13 @@
+{
+  "MessageKind": "Interaction",
+  "InteractionType": "WebLVC:WeaponFire",
+  "Interaction": {
+    "AttackerId": "Tank1",
+    "TargetId": "Tank2",
+    "MunitionType": [2, 2, 225, 2, 3, 0, 0],
+    "Coordinates": {
+      "WorldLocation": [4437182.0232, -395338.0731, 873923.4663],
+      "VelocityVector": [57.04, 32.77, 89.263]
+    }
+  }
+}
